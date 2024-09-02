@@ -1,0 +1,20 @@
+#include <iomanip>
+#include <iostream>
+#include <vector>
+
+using namespace std;
+
+int main() {
+    int x;
+    vector <int> par, impar;
+    cin >> x;
+    if (x % 2 = 0);
+        x = par;
+    else
+        x = impar;
+    if x = par;
+    cout << fixed << "par[]= << x << endl;
+    if x = impar;
+    cout << fixed << "impar[]= << x << endl;
+    return 0;
+}
